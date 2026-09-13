@@ -21,4 +21,3 @@ ${\textsf{\color{#937BA1} 𝓸𝓷𝓵𝔂}}$ ${\textsf{\color{#776494} 𝓬𝓸
     </tr>
   </table>
   <sub><a
-href="https://csgreet.atabook.org//">atabook</a></sub>
